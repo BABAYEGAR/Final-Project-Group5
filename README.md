@@ -1,6 +1,8 @@
 # FinalProject-Group5 README
 Data Mining Group Project
 
+This project is designed to make soccer match predictions using the decision tree data minning algorithm. A GUI is also designed with pyQt5 to make it more interactive.
+
 The dataset is large and exceeds the github file upload size therefore the dataset is found on this link https://drive.google.com/file/d/1nJ-AvjMkAY0e8tV3iONIcE96psd1eiVi/view?usp=sharing
 
 1.To successfully execute the program,make sure you have skilearn library and the pyqt5 library installed on your python enviroment you need to make sure you are using the correct link to the dataset in the database.py and the team_formations.py. 
