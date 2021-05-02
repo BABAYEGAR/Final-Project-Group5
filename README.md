@@ -1,4 +1,4 @@
-# FinalProject-GroupX
+# FinalProject-Group5 README
 Data Mining Group Project
 
 The dataset is large and exceeds the github file upload size therefore the dataset is found on this link https://drive.google.com/file/d/1nJ-AvjMkAY0e8tV3iONIcE96psd1eiVi/view?usp=sharing
