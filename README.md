@@ -15,7 +15,7 @@ The dataset is large and exceeds the github file upload size therefore the datas
 
 6.The program now uses the skilearn decision tree classifier model to train, fit and predit the match outcome.
 
-7.The results of the match outcome and the accuracy of the prediction is now dislayed on the GUI.
+7.The results of the match outcome, teams formation and the accuracy of the prediction is now dislayed on the GUI.
 
 8.To predict with another set of teams, you simply change the teams from the combo. If you want to cancel or stop the program you can use the cancel button or the window cancel icon.
 
