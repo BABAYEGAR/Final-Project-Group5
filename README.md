@@ -21,3 +21,5 @@ The dataset is large and exceeds the github file upload size therefore the datas
 
 8.To predict with another set of teams, you simply change the teams from the combo. If you want to cancel or stop the program you can use the cancel button or the window cancel icon.
 
+9.The project presentation, group report and all individiaul reports are also uploaded.
+
